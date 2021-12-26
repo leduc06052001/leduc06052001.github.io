@@ -1,50 +1,30 @@
 
-TITLE: 
-Beryllium - 100% Fully Responsive Free HTML5 Bootstrap Template
+	   Welcome,
+------------------------------
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+ *Hướng dẫn cài đặt hệ thống
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+-->Bước 1:
+      + Khởi động XAMPP Control, khởi chạy Apache, MySQL
+      + Tải file 1921050192_LeVanDuc.zip
+      + Giải nén vào thư mục xampp/htdocs
+
+-->Bước 2:
+      + Truy cập vào máy chủ localhost/phpmyadmin/
+      + Tạo database mới với tên bookstore
+      + Nhập database có tên bookstore.sql (1921050192_LeVanDuc/bookstore.sql)
+
+-->Bước 3:
+      + Thực hiện truy cập với tên miền: localhost/1921050192_LeVanDuc/
+
+-->Bước 4: Hoàn thành cài đặt trang web
+      + Đăng kí một tài khoản để sử dụng các dịch vụ
 
 
-CREDITS:
 
-Bootstrap
-http://getbootstrap.com/
+----------------------------------------------------	
+   <?> Họ và Tên sinh viên: Lê Văn Đức
+   <?> Môn học: Phát triển ứng dụng web + BTL
+   <?> Email liên hệ: 1921050192@student.humg.edu.vn
 
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Google Map
-http://maps.google.com
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-Demo Images:
-http://unsplash.com
-
+	Xin trân trọng cảm ơn!
